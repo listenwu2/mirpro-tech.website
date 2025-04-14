@@ -39,6 +39,8 @@ opacity: 1;
 .top{
 	overflow: hidden;
 	background-image: url("pic/m1.jpg");
+	background-size: cover;
+    background-position: center;
 	height: 650px;
 	width: 100%;
 }
@@ -170,6 +172,8 @@ opacity: 1;
 
 .photoback{
 	background-image: url("pic/6.jpg");
+	background-size: cover;
+    background-position: center;
 	float:right;
 	height:450px;
 	width:450px;
@@ -188,6 +192,8 @@ opacity: 1;
 
 .third{
 	background-image:url("pic/4.jpg");
+	background-size: cover;
+    background-position: center;
 	height:600px;
 	width:100%;
 }
@@ -257,6 +263,8 @@ line-height:83px;
 	height:45%;
 	width:100%;
 	background-image: url("pic/6.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .circle1{
@@ -266,6 +274,8 @@ line-height:83px;
 	height:45%;
 	width:100%;
 	background-image: url("pic/6.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .ppp{
@@ -294,6 +304,8 @@ line-height:83px;
 	height:650px;
 	width:100%;
 	background-image: url("pic/5.jpg");
+	background-size: cover;
+    background-position: center;
 }
 
 .title3{
@@ -310,6 +322,8 @@ border-color:rgba(0,0,0,0);
 	margin-left:auto;
 	margin-right:auto;
 	background-image: url("pic/7.jpg");
+	background-size: cover;
+    background-position: center;
 	height:400px;
 	width:85%;
 }
